@@ -12,7 +12,7 @@ public class Main {
         
         //Print to see if stuff is working
         System.out.println("Street: " + myAddress1.street);
-        System.out.println("City: " + myAddress1.city);
+        System.out.println("City: " + myAddress1.city);//Trying new things
         System.out.println("State: " + myAddress1.state);
         System.out.println("Country: " + myAddress1.country);
         System.out.println("Postal Code: "+ myAddress1.postalCode);
